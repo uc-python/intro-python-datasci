@@ -35,5 +35,5 @@ The following are the primary objectives of students:
 
 If you have any specific questions prior to the class you can reach out to us directly via GitHub or email:
 
-  * Ethan Swan: [GitHub](https://www.github.com/eswan18) & mailto:ethanpswan@gmail.com
-  * Mark Roepke: [GitHub](https://www.github.com/markroepke) & mailto:mroepke5@gmail.com
+  * Ethan Swan: [GitHub](https://www.github.com/eswan18) & [Email](mailto:ethanpswan@gmail.com)
+  * Mark Roepke: [GitHub](https://www.github.com/markroepke) & [Email](mailto:mroepke5@gmail.com)
