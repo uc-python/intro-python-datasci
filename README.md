@@ -6,13 +6,13 @@ Welcome to Introduction to Python for Data Science! This short course provides a
 
 ### Objectives
 
-The following are the primary objectives of students:
+The following are the primary learning objectives of students:
 
 1. Develop comprehensive skills in the importing/exporting, wrangling, aggregating and joining of data using Python.
 
 2. Establish a mental model of the Python programming language to enable future self-learning.
 
-3. Build awareness and basic skill in the core data science tasks of visualization, reshaping, and model specification.
+3. Build awareness and basic skills in the core data science area of data visualization.
 
 ### Agenda
 
@@ -22,7 +22,7 @@ The following are the primary objectives of students:
 | :----------------------------------------------------------------------------- | :-----------: |
 | Breakfast / Social Time                                                        |  8:00 - 9:00  |
 | Introductions                                                                  |  9:00 - 9:15  |
-| Python and Jupyter Overview                                                    |  9:15 - 9:45  |                                               
+| Python and Jupyter Overview                                                    |  9:15 - 9:45  |                               
 | Fundamentals                                                                   |  9:45 - 10:30 |
 | Break                                                                          | 10:30 - 10:45 |
 | Packages, Modules, Methods, Functions                                          | 10:45 - 11:30 |
