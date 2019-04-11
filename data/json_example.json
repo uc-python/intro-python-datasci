@@ -1,0 +1,16 @@
+{
+    "planeId": "1xc2345g",
+    "manufacturerDetails": {
+        "manufacturer": "Airbus",
+        "model": "A330",
+        "year": 1999
+    },
+    "airlineDetails": {
+        "currentAirline": "Southwest",
+        "previousAirlines": {
+            "1st": "Delta"
+        },
+        "lastPurchased": 2013
+    },
+    "numberOfFlights": 4654
+}
