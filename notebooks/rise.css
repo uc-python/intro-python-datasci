@@ -1,3 +1,7 @@
 .rendered_html table, .rendered_html th, .rendered_html tr, .rendered_html td {
      font-size: 100%;
 }
+
+.container.slides .celltoolbar, .container.slides .hide-in-slideshow {
+    display: None ! important;
+}
