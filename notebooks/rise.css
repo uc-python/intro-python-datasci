@@ -1,0 +1,27 @@
+.rise-enabled {
+    background-color: #ffffff !important;
+    border-top: 30px #919191 solid;
+    border-bottom: 30px #919191 solid;
+}
+
+.question {
+    color: #008;   
+}
+
+.your_turn {
+    color: #e08414;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.rendered_html h1 {
+    color: #129628;
+}
+
+.rendered_html table, .rendered_html th, .rendered_html tr, .rendered_html td {
+    font-size: 100%;
+}
+
+.container.slides .celltoolbar, .container.slides .hide-in-slideshow {
+    display: None ! important;
+}
