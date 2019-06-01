@@ -4,9 +4,9 @@ channels:
     - conda-forge
 dependencies:
     - python=3.7
-    - numpy>=1.14
-    - pandas>=0.22
-    - seaborn>=0.9
-    - rise
+    - numpy=1.16
+    - pandas=0.24
+    - seaborn=0.9
+    - rise=5.5
     - pip:
       - jupyter-contrib-nbextensions
