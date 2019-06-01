@@ -1,9 +1,10 @@
-name: intro-python-datasci
+name: uc-python
 channels:
     - defaults
     - conda-forge
 dependencies:
-    - python=3.7
+    - python>=3.7
+    - pip>=19.0
     - numpy=1.16
     - pandas=0.24
     - seaborn=0.9
