@@ -8,6 +8,6 @@ dependencies:
     - numpy=1.16
     - pandas=0.24
     - seaborn=0.9
-    - rise=5.5
+    - rise=5.5.0
     - pip:
       - jupyter-contrib-nbextensions
