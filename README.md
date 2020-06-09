@@ -1,5 +1,5 @@
 # Introduction to Python for Data Science
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uc-python/intro-python-datasci/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uc-python/intro-python-datasci/master?urlpath=lab)
 
 ### Course Description
 
