@@ -40,7 +40,7 @@ The following are the primary learning objectives of students:
 | Topic                                                                          |     Time      |
 | :----------------------------------------------------------------------------- | :-----------: |
 | Breakfast / Social Time                                                        |  8:00 - 9:00  |
-| Review                                                                         |  9:00 - 10:00 |
+| Review                                                                         |  9:00 - 9:30  |
 | Summarizing Data                                                               |  9:30 - 10:30 |
 | Break                                                                          | 10:30 - 10:45 |
 | Summarizing Grouped Data                                                       | 10:45 - 11:15 |
