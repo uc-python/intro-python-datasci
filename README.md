@@ -83,4 +83,4 @@ There are two ways to download the class materials:
 If you have any specific questions prior to the class you can reach out to us directly via GitHub or email:
 
   * Ethan Swan: [GitHub](https://www.github.com/eswan18) & [Email](mailto:ethanpswan@gmail.com)
-  * Mark Roepke: [GitHub](https://www.github.com/markroepke) & [Email](mailto:mroepke5@gmail.com)
+  * Bradley Boehmke: [GitHub](https://www.github.com/bradleyboehmke) & [Email](mailto:bradleyboehmke@gmail.com)
