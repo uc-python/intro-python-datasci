@@ -17,40 +17,53 @@ The following are the primary learning objectives of students:
 
 ### Agenda
 
+***Due to the Coronavirus pandemic, this workshop offering will be 100% virutal and span 4 half-days.***
+
 **Day 1**
 
 | Topic                                                                          |     Time      |
 | :----------------------------------------------------------------------------- | :-----------: |
-| Breakfast / Social Time                                                        |  8:00 - 9:00  |
 | Introductions                                                                  |  9:00 - 9:15  |
-| Python and Jupyter Overview                                                    |  9:15 - 9:45  |                               
+| Python and Jupyter Overview                                                    |  9:15 - 9:45  |
 | Fundamentals                                                                   |  9:45 - 10:30 |
 | Break                                                                          | 10:30 - 10:45 |
 | Packages, Modules, Methods, Functions                                          | 10:45 - 11:30 |
 | Importing Data                                                                 | 11:30 - 12:00 |
-| Lunch                                                                          | 12:00 - 1:00  |
-| Selecting and Filtering Data                                                   |  1:00 - 2:00  |
-| Working with Columns                                                           |  2:00 - 2:45  |
-| Break                                                                          |  2:45 - 3:00  |
-| Case Study, pt. 1                                                              |  3:00 - 4:00  |
-| Q\&A                                                                           |  4:00 - 4:30  |
+| Q\&A                                                                           | 12:00 - 12:30 |
 
 **Day 2**
 
 | Topic                                                                          |     Time      |
 | :----------------------------------------------------------------------------- | :-----------: |
-| Breakfast / Social Time                                                        |  8:00 - 9:00  |
+| Q\&A                                                                           |  8:30 - 9:00  |
+| Selecting and Filtering Data                                                   |  9:00 - 10:00 |
+| Working with Columns                                                           | 10:00 - 10:45 |
+| Break                                                                          | 10:45 - 11:00 |
+| Case Study, pt. 1                                                              | 11:00 - 12:00 |
+| Q\&A                                                                           | 12:00 - 12:30 |
+
+**Day 3**
+
+| Topic                                                                          |     Time      |
+| :----------------------------------------------------------------------------- | :-----------: |
+| Q\&A                                                                           |  8:30 - 9:00  |
 | Review                                                                         |  9:00 - 9:30  |
 | Summarizing Data                                                               |  9:30 - 10:30 |
 | Break                                                                          | 10:30 - 10:45 |
 | Summarizing Grouped Data                                                       | 10:45 - 11:15 |
 | Joining Data                                                                   | 11:15 - 12:00 |
-| Lunch                                                                          | 12:00 - 1:00  |
-| Exporting Data                                                                 |  1:00 - 1:30  |
-| Visualizing Data                                                               |  1:30 - 2:30  |
-| Break                                                                          |  2:30 - 2:45  |
-| Case Study, pt. 2                                                              |  2:45 - 4:00  |
-| Q\&A                                                                           |  4:00 - 4:30  |
+| Q\&A                                                                           | 12:00 - 12:30 |
+
+**Day 4**
+
+| Topic                                                                          |     Time      |
+| :----------------------------------------------------------------------------- | :-----------: |
+| Q\&A                                                                           |  8:30 - 9:00  |
+| Exporting Data                                                                 |  9:00 - 9:30  |
+| Visualizing Data                                                               |  9:30 - 10:30 |
+| Break                                                                          | 10:30 - 10:45 |
+| Case Study, pt. 2                                                              | 10:45 - 11:30 |
+| Q\&A                                                                           | 11:30 - 12:00 |
 
 ### Course Preparation
 
