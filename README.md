@@ -21,49 +21,34 @@ The following are the primary learning objectives of students:
 
 **Day 1**
 
-| Topic                                                                          |     Time      |
-| :----------------------------------------------------------------------------- | :-----------: |
-| Introductions                                                                  |  9:00 - 9:15  |
-| Python and Jupyter Overview                                                    |  9:15 - 9:45  |
-| Fundamentals                                                                   |  9:45 - 10:30 |
-| Break                                                                          | 10:30 - 10:45 |
-| Packages, Modules, Methods, Functions                                          | 10:45 - 11:30 |
-| Importing Data                                                                 | 11:30 - 12:00 |
-| Q\&A                                                                           | 12:00 - 12:30 |
-
-**Day 2**
-
-| Topic                                                                          |     Time      |
-| :----------------------------------------------------------------------------- | :-----------: |
-| Q\&A                                                                           |  8:30 - 9:00  |
-| Selecting and Filtering Data                                                   |  9:00 - 10:00 |
-| Working with Columns                                                           | 10:00 - 10:45 |
-| Break                                                                          | 10:45 - 11:00 |
-| Case Study, pt. 1                                                              | 11:00 - 12:00 |
-| Q\&A                                                                           | 12:00 - 12:30 |
-
-**Day 3**
-
-| Topic                                                                          |     Time      |
-| :----------------------------------------------------------------------------- | :-----------: |
-| Q\&A                                                                           |  8:30 - 9:00  |
-| Review                                                                         |  9:00 - 9:30  |
-| Summarizing Data                                                               |  9:30 - 10:30 |
-| Break                                                                          | 10:30 - 10:45 |
-| Summarizing Grouped Data                                                       | 10:45 - 11:15 |
-| Joining Data                                                                   | 11:15 - 12:00 |
-| Q\&A                                                                           | 12:00 - 12:30 |
-
-**Day 4**
-
-| Topic                                                                          |     Time      |
-| :----------------------------------------------------------------------------- | :-----------: |
-| Q\&A                                                                           |  8:30 - 9:00  |
-| Exporting Data                                                                 |  9:00 - 9:30  |
-| Visualizing Data                                                               |  9:30 - 10:30 |
-| Break                                                                          | 10:30 - 10:45 |
-| Case Study, pt. 2                                                              | 10:45 - 11:30 |
-| Q\&A                                                                           | 11:30 - 12:00 |
+| Day       | Topic                                                                          |     Time      |
+| :--------:| :----------------------------------------------------------------------------- | :-----------: |
+| __Day 1__ | Introductions                                                                  |  9:00 - 9:15  |
+|           | Python and Jupyter Overview                                                    |  9:15 - 9:45  |
+|           | Fundamentals                                                                   |  9:45 - 10:30 |
+|           | Break                                                                          | 10:30 - 10:45 |
+|           | Packages, Modules, Methods, Functions                                          | 10:45 - 11:30 |
+|           | Importing Data                                                                 | 11:30 - 12:00 |
+|           | Q\&A                                                                           | 12:00 - 12:30 |
+| __Day 2__ | Q\&A                                                                           |  8:30 - 9:00  |
+|           | Selecting and Filtering Data                                                   |  9:00 - 10:00 |
+|           | Working with Columns                                                           | 10:00 - 10:45 |
+|           | Break                                                                          | 10:45 - 11:00 |
+|           | Case Study, pt. 1                                                              | 11:00 - 12:00 |
+|           | Q\&A                                                                           | 12:00 - 12:30 |
+| __Day 3__ | Q\&A                                                                           |  8:30 - 9:00  |
+|           | Review                                                                         |  9:00 - 9:30  |
+|           | Summarizing Data                                                               |  9:30 - 10:30 |
+|           | Break                                                                          | 10:30 - 10:45 |
+|           | Summarizing Grouped Data                                                       | 10:45 - 11:15 |
+|           | Joining Data                                                                   | 11:15 - 12:00 |
+|           | Q\&A                                                                           | 12:00 - 12:30 |
+| __Day 4__ | Q\&A                                                                           |  8:30 - 9:00  |
+|           | Exporting Data                                                                 |  9:00 - 9:30  |
+|           | Visualizing Data                                                               |  9:30 - 10:30 |
+|           | Break                                                                          | 10:30 - 10:45 |
+|           | Case Study, pt. 2                                                              | 10:45 - 11:30 |
+|           | Q\&A                                                                           | 11:30 - 12:00 |
 
 ### Course Preparation
 
