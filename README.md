@@ -19,8 +19,6 @@ The following are the primary learning objectives of students:
 
 ***Due to the Coronavirus pandemic, this workshop offering will be 100% virtual and span 4 half-days.***
 
-**Day 1**
-
 | Day       | Topic                                                                          |     Time      |
 | :--------:| :----------------------------------------------------------------------------- | :-----------: |
 | __Day 1__ | Introductions                                                                  |  9:00 - 9:15  |
