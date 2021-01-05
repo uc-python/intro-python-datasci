@@ -19,8 +19,6 @@ The following are the primary learning objectives of students:
 
 ***Due to the Coronavirus pandemic, this workshop offering will be 100% virtual and span 4 half-days.***
 
-**Day 1**
-
 | Day       | Topic                                                                          |     Time      |
 | :--------:| :----------------------------------------------------------------------------- | :-----------: |
 | __Day 1__ | Introductions                                                                  |  9:00 - 9:15  |
@@ -62,9 +60,9 @@ Follow these steps to download the technologies and materials:
 
 These easiest way to install Python, Jupyter, and the necessary packages is through Anaconda. To download and install Anaconda:
 
-1. Visit the [Anaconda download page](https://www.anaconda.com/distribution/)
-2. Select your appropriate operating system
-3. Click the "Download" button for Python 3.7 - this will begin to download the Anaconda installer
+1. Visit the [Anaconda Individual Edition page](https://www.anaconda.com/products/individual)
+2. Scroll down to the "Anaconda Installers" section.
+3. Choose to download the **Graphical Installer** for your operating system. (If you are comfortable with the command line, you may choose that option instead.)
 4. Open the installer when the download completes, and then follow the prompts. If you are prompted about installing PyCharm, elect **not** to do so.
 5. Once installed, open the Anaconda Navigator and launch a Jupyter Notebook to ensure it works.
 6. Follow [the package installation instructions](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-packages/#installing-a-package) to ensure `pandas` and `seaborn` packages are installed.
