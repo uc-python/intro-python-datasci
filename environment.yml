@@ -3,11 +3,10 @@ channels:
     - defaults
     - conda-forge
 dependencies:
-    - python>=3.8
-    - pip>=20.0
-    - numpy=1.18
-    - pandas=1.0
-    - seaborn=0.10
-    - rise=5.6
-    - pip:
-      - jupyter-contrib-nbextensions
+    - python>=3.9
+    - pip>=20.3
+    - numpy=1.19
+    - pandas=1.2
+    - seaborn=0.11
+    - ipykernel=5.3
+    - jinja2=2.11
