@@ -1,0 +1,38 @@
+name: Test
+
+on: push
+
+jobs:
+  validate-notebooks:
+    name: Validate Notebooks
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        # Required for "run" commands to execute in the conda env.
+        shell: bash -l {0}
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+      - name: Set Up Conda Environment
+        uses: conda-incubator/setup-miniconda@v2
+        with:
+          activate-environment: uc-python
+          environment-file: environment.yml
+      - name: Set Up Jupyter Kernel
+        run: |
+          python -m ipykernel install --user --name uc-python
+      - name: Install Papermill
+        run: |
+          conda install papermill
+      - name: Prep notebooks
+        run: |
+          # Remove nb cells that should be skipped in CI.
+          for nb in notebooks/*.ipynb; do
+            python scripts/prep_nb_for_ci.py $nb
+          done
+      - name: Run notebooks
+        run: |
+          for nb in notebooks/*.ipynb; do
+            echo "running $nb"
+            output=$(papermill --cwd notebooks/ $nb -)
+          done
