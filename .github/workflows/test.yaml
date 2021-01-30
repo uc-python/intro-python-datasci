@@ -33,5 +33,6 @@ jobs:
       - name: Run notebooks
         run: |
           for nb in notebooks/*.ipynb; do
-            papermill --cwd notebooks/ $nb - > /dev/null
+            echo "running $nb"
+            output=$(papermill --cwd notebooks/ $nb)
           done
