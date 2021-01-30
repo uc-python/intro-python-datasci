@@ -15,7 +15,6 @@ jobs:
             activate-environment: uc-python
             environment-file: environment.yml
         - run: |
-            conda env list
-            conda info
-            conda list
-
+            conda activate uc-python
+        - run: |
+            conda install papermill
