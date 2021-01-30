@@ -25,3 +25,7 @@ jobs:
           for nb in notebooks/*.ipynb; do
             python scripts/prep_nb_for_ci.py $nb
           done
+      - run: |
+          for nb in notebooks/*.ipynb; do
+            papermill $nb > /dev/null
+          done
