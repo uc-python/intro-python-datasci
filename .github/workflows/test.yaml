@@ -3,12 +3,12 @@ name: Test
 on: push
 
 jobs:
-  setup:
-    name: setup
+  validate-notebooks:
+    name: Validate Notebooks
     runs-on: ubuntu-latest
     defaults:
       run:
-        # Required for commands to execute *within the conda env*
+        # Required for "run" commands to execute in the conda env.
         shell: bash -l {0}
     steps:
       - name: Checkout Code
@@ -30,14 +30,6 @@ jobs:
           for nb in notebooks/*.ipynb; do
             python scripts/prep_nb_for_ci.py $nb
           done
-  validate-notebooks:
-    name: Validate Notebooks
-    runs-on: ubuntu-latest
-    defaults:
-      run:
-        # Required for commands to execute *within the conda env*
-        shell: bash -l {0}
-    steps:
       - name: Run notebooks
         run: |
           for nb in notebooks/*.ipynb; do
