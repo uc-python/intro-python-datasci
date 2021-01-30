@@ -28,7 +28,7 @@ jobs:
         run: |
           # Remove nb cells that should be skipped in CI.
           for nb in notebooks/*.ipynb; do
-            python scripts/prep_nb_for_ci.py $nb
+            python scripts/prep_nb_for_ci.py "$nb"
           done
       - name: Run notebooks
         run: |
