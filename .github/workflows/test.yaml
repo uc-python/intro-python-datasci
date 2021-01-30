@@ -3,21 +3,25 @@ name: Test
 on: push
 
 jobs:
-    validate-notebooks:
-      name: Validate Notebooks
-      runs-on: ubuntu-latest
-      defaults:
-        run:
-          shell: bash -l {0}
-      steps:
-        - name: Checkout code
-          uses: actions/checkout@v2
-        - name: Setup Conda Environment
-          uses: conda-incubator/setup-miniconda@v2
-          with:
-            activate-environment: uc-python
-            environment-file: environment.yml
-        - run: |
-            conda install papermill
-        - run: |
-            conda env list
+  validate-notebooks:
+    name: Validate Notebooks
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        # Required for "run" commands to execute in the conda env.
+        shell: bash -l {0}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Setup Conda Environment
+        uses: conda-incubator/setup-miniconda@v2
+        with:
+          activate-environment: uc-python
+          environment-file: environment.yml
+      - run: |
+          conda install papermill
+      - run: |
+          # Remove nb cells that should be skipped in CI.
+          for nb in notebooks/*.ipynb; do
+            python scripts/prep_nb_for_ci.py $nb
+          done
