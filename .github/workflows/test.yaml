@@ -34,5 +34,5 @@ jobs:
         run: |
           for nb in notebooks/*.ipynb; do
             echo "running $nb"
-            output=$(papermill --cwd notebooks/ $nb)
+            output=$(papermill --cwd notebooks/ $nb -)
           done
