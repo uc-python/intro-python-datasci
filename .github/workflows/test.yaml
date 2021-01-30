@@ -20,7 +20,7 @@ jobs:
           environment-file: environment.yml
       - name: Set Up Jupyter Kernel
         run: |
-          python -m ipykernel install --name uc-python
+          python -m ipykernel install --user --name uc-python
       - name: Install Papermill
         run: |
           conda install papermill
