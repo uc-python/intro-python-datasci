@@ -1,3 +1,5 @@
+#!/bin/bash
+
 set -e
 shopt -s extglob
 
@@ -14,6 +16,7 @@ cd notebooks
 cp -r images ../slides
 # Match all notebook files starting with digits and then a dash.
 for file in +([0-9])*-*.ipynb; do
-    jupyter nbconvert --to slides $file --TagRemovePreprocessor.remove_input_tags hide-input --output-dir=../slides
-    # jupyter nbconvert --to slides $file --TagRemovePreprocessor.remove_input_tags={\"hide-input\"} --TagRemovePreprocessor.remove_input_tags hide-input --output-dir=../slides
+    jupyter nbconvert --to slides $file --TagRemovePreprocessor.remove_input_tags hide-input --output-dir=../slides &
 done
+# Block until all the parallel tasks (from above loop) finish
+wait
