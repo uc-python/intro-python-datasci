@@ -1,8 +1,5 @@
 #!/bin/bash
 
-set -e
-shopt -s extglob
-
 if [ ! -d ".git" ]; then
     echo "Error: no .git directory detected"
     echo "This script should be run from the base of the repo"
@@ -13,10 +10,9 @@ fi
 # We must be *in* the notebook folder for relative links (to eg images) to work
 # correctly..
 cd notebooks
-cp -r images ../slides
-# Match all notebook files starting with digits and then a dash.
-for file in +([0-9])*-*.ipynb; do
-    jupyter nbconvert --to slides $file --TagRemovePreprocessor.remove_input_tags hide-input --output-dir=../slides &
+mkdir -p ../slides/images/
+cp -a ./images/* ../slides/images/
+# Match all notebook files with content.
+for file in *-*.ipynb; do
+    jupyter nbconvert --to slides $file --output-dir=../slides
 done
-# Block until all the parallel tasks (from above loop) finish
-wait
