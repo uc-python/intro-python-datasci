@@ -21,32 +21,32 @@ The following are the primary learning objectives of students:
 
 | Day       | Topic                                                                          |     Time      |
 | :--------:| :----------------------------------------------------------------------------- | :-----------: |
-| __Day 1__ | Introductions                                                                  |  9:00 - 9:15  |
-|           | Python and Jupyter Overview                                                    |  9:15 - 9:45  |
-|           | Fundamentals                                                                   |  9:45 - 10:30 |
-|           | Break                                                                          | 10:30 - 10:45 |
-|           | Packages, Modules, Methods, Functions                                          | 10:45 - 11:30 |
-|           | Importing Data                                                                 | 11:30 - 12:00 |
-|           | Q\&A                                                                           | 12:00 - 12:30 |
-| __Day 2__ | Q\&A                                                                           |  8:30 - 9:00  |
-|           | Selecting and Filtering Data                                                   |  9:00 - 10:00 |
-|           | Working with Columns                                                           | 10:00 - 10:45 |
-|           | Break                                                                          | 10:45 - 11:00 |
-|           | Case Study, pt. 1                                                              | 11:00 - 12:00 |
-|           | Q\&A                                                                           | 12:00 - 12:30 |
-| __Day 3__ | Q\&A                                                                           |  8:30 - 9:00  |
-|           | Review                                                                         |  9:00 - 9:30  |
-|           | Summarizing Data                                                               |  9:30 - 10:30 |
-|           | Break                                                                          | 10:30 - 10:45 |
-|           | Summarizing Grouped Data                                                       | 10:45 - 11:15 |
-|           | Joining Data                                                                   | 11:15 - 12:00 |
-|           | Q\&A                                                                           | 12:00 - 12:30 |
-| __Day 4__ | Q\&A                                                                           |  8:30 - 9:00  |
-|           | Exporting Data                                                                 |  9:00 - 9:30  |
-|           | Visualizing Data                                                               |  9:30 - 10:30 |
-|           | Break                                                                          | 10:30 - 10:45 |
-|           | Case Study, pt. 2                                                              | 10:45 - 11:30 |
-|           | Q\&A                                                                           | 11:30 - 12:00 |
+| __Day 1__ | Introductions                                                                  | 12:30 - 12:45 |
+|           | Python and Jupyter Overview                                                    | 12:45 - 1:15  |
+|           | Fundamentals                                                                   |  1:15 - 2:00  |
+|           | Break                                                                          |  2:00 - 2:15  |
+|           | Packages, Modules, Methods, Functions                                          |  2:15 - 3:00  |
+|           | Importing Data                                                                 |  3:00 - 3:45  |
+|           | Q\&A                                                                           |  3:45 - 4:15  |
+| __Day 2__ | Q\&A                                                                           | 12:45 - 1:15  |
+|           | Selecting and Filtering Data                                                   |  1:15 - 2:00  |
+|           | Working with Columns                                                           |  2:00 - 2:45  |
+|           | Break                                                                          |  2:45 - 3:00  |
+|           | Case Study, pt. 1                                                              |  3:00 - 3:45  |
+|           | Q\&A                                                                           |  3:45 - 4:15  |
+| __Day 3__ | Q\&A                                                                           | 12:45 - 1:15  |
+|           | Review                                                                         |  1:15 - 1:30  |
+|           | Summarizing Data                                                               |  1:30 - 2:15  |
+|           | Break                                                                          |  2:15 - 2:30  |
+|           | Summarizing Grouped Data                                                       |  2:30 - 3:00  |
+|           | Joining Data                                                                   |  3:00 - 3:45  |
+|           | Q\&A                                                                           |  3:45 - 4:15  |
+| __Day 4__ | Q\&A                                                                           | 12:45 - 1:15  |
+|           | Exporting Data                                                                 |  1:15 - 1:45  |
+|           | Visualizing Data                                                               |  1:45 - 2:45  |
+|           | Break                                                                          |  2:45 - 3:00  |
+|           | Case Study, pt. 2                                                              |  3:00 - 3:45  |
+|           | Q\&A                                                                           |  3:45 - 4:15  |
 
 ### Course Preparation
 
