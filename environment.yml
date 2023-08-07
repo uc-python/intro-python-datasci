@@ -6,8 +6,8 @@ dependencies:
     - python>=3.11
     - pip>=22.1
     - nbconvert>=6.1
-    - numpy>=1.25
-    - pandas=1.5
+    - numpy=1.25
+    - pandas=2.0
     - seaborn=0.12
     - ipykernel>=6.4
     - jinja2>=2.11
