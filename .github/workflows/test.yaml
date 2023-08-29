@@ -12,7 +12,7 @@ jobs:
         shell: bash -l {0}
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Set Up Conda Environment
         uses: conda-incubator/setup-miniconda@v2
         with:
