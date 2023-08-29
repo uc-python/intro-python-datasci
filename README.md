@@ -81,3 +81,4 @@ If you have any specific questions prior to the class you can reach out to us di
   * Ethan Swan: [GitHub](https://www.github.com/eswan18) & [Email](mailto:ethanpswan@gmail.com)
   * Bradley Boehmke: [GitHub](https://www.github.com/bradleyboehmke) & [Email](mailto:bradleyboehmke@gmail.com)
   * Gus Powers: [GitHub](https://www.github.com/augustopher) & [Email](mailto:guspowers0@gmail.com)
+  * Jay Cunningham: [GitHub](https://github.com/cunningjames) & [Email](mailto:james@notbadafterall.com)
