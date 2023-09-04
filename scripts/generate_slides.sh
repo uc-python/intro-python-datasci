@@ -10,9 +10,7 @@ fi
 # We must be *in* the notebook folder for relative links (to eg images) to work
 # correctly..
 cd notebooks
-mkdir -p ../slides/images/
-cp -a ./images/* ../slides/images/
-# Match all notebook files with content.
-for file in *-*.ipynb; do
-    jupyter nbconvert --to slides $file --output-dir=../slides
-done
+# images are copied over to slides/ by the Makefile
+NB_PATH="$1"
+REL_NB=${NB_PATH/#notebooks\//}
+jupyter nbconvert --to slides $REL_NB --output-dir=../slides
