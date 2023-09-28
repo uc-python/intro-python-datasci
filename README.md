@@ -65,7 +65,7 @@ These easiest way to install Python, Jupyter, and the necessary packages is thro
 3. Choose to download the **Graphical Installer** for your operating system. (If you are comfortable with the command line, you may choose that option instead.)
 4. Open the installer when the download completes, and then follow the prompts. If you are prompted about installing PyCharm, elect **not** to do so.
 5. Once installed, open the Anaconda Navigator and launch a Jupyter Notebook to ensure it works.
-6. Follow [the package installation instructions](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-packages/#installing-a-package) to ensure `pandas` and `seaborn` packages are installed.
+6. Follow [the package installation instructions](https://docs.anaconda.com/free/navigator/tutorials/manage-packages/#installing-a-package) to ensure `pandas` and `seaborn` packages are installed.
 
 #### 2. Download class materials
 
