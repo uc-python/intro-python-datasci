@@ -17,7 +17,7 @@ The following are the primary learning objectives of students:
 
 ### Agenda
 
-***Due to the Coronavirus pandemic, this workshop offering will be 100% virtual and span 4 half-days.***
+***This workshop offering will be 100% virtual and span 4 half-days.***
 
 | Day       | Topic                                                                          |     Time      |
 | :--------:| :----------------------------------------------------------------------------- | :-----------: |
@@ -28,24 +28,24 @@ The following are the primary learning objectives of students:
 |           | Packages, Modules, Methods, Functions                                          |  2:15 - 3:00  |
 |           | Importing Data                                                                 |  3:00 - 3:45  |
 |           | Q\&A                                                                           |  3:45 - 4:15  |
-| __Day 2__ | Q\&A                                                                           | 12:45 - 1:15  |
-|           | Selecting and Filtering Data                                                   |  1:15 - 2:00  |
-|           | Working with Columns                                                           |  2:00 - 2:45  |
-|           | Break                                                                          |  2:45 - 3:00  |
-|           | Case Study, pt. 1                                                              |  3:00 - 3:45  |
+| __Day 2__ | Q\&A                                                                           | 12:45 - 1:00  |
+|           | Selecting and Filtering Data                                                   |  1:00 - 1:45  |
+|           | Working with Columns                                                           |  1:45 - 2:30  |
+|           | Break                                                                          |  2:30 - 2:45  |
+|           | Case Study, pt. 1                                                              |  2:45 - 3:45  |
 |           | Q\&A                                                                           |  3:45 - 4:15  |
-| __Day 3__ | Q\&A                                                                           | 12:45 - 1:15  |
-|           | Review                                                                         |  1:15 - 1:30  |
-|           | Summarizing Data                                                               |  1:30 - 2:15  |
-|           | Break                                                                          |  2:15 - 2:30  |
-|           | Summarizing Grouped Data                                                       |  2:30 - 3:00  |
+| __Day 3__ | Q\&A                                                                           | 12:45 - 1:00  |
+|           | Review                                                                         |  1:00 - 1:15  |
+|           | Summarizing Data                                                               |  1:15 - 2:00  |
+|           | Break                                                                          |  2:00 - 2:15  |
+|           | Summarizing Grouped Data                                                       |  2:15 - 3:00  |
 |           | Joining Data                                                                   |  3:00 - 3:45  |
 |           | Q\&A                                                                           |  3:45 - 4:15  |
-| __Day 4__ | Q\&A                                                                           | 12:45 - 1:15  |
-|           | Exporting Data                                                                 |  1:15 - 1:45  |
-|           | Visualizing Data                                                               |  1:45 - 2:45  |
-|           | Break                                                                          |  2:45 - 3:00  |
-|           | Case Study, pt. 2                                                              |  3:00 - 3:45  |
+| __Day 4__ | Q\&A                                                                           | 12:45 - 1:00  |
+|           | Exporting Data                                                                 |  1:00 - 1:30  |
+|           | Visualizing Data                                                               |  1:30 - 2:30  |
+|           | Break                                                                          |  2:30 - 2:45  |
+|           | Case Study, pt. 2                                                              |  2:45 - 3:45  |
 |           | Q\&A                                                                           |  3:45 - 4:15  |
 
 ### Course Preparation
