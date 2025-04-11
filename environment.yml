@@ -3,10 +3,10 @@ channels:
     - defaults
     - conda-forge
 dependencies:
-    - python=3.12
+    - python=3.13
     - pip>=22.1
     - nbconvert>=6.1
-    - numpy=1.26
+    - numpy=2
     - pandas=2
     - seaborn=0.12
     - ipykernel>=6.28
